@@ -3,7 +3,7 @@
 body {
     padding: 50px 20px;
     background: linear-gradient(86deg, rgba(150,23,94,1) 32%, rgba(0,143,241,1) 100%);
-    
+    min-height: 100vh;
    
     
 }
